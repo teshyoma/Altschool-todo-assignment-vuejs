@@ -1,5 +1,5 @@
 <!--
-In this project, I created a todo list that can edit the content in the h2 tag which is for example: Welcome back!!! username, the username can be edited, the user has the option of changing names.
+In this project, I created a todo list that can edit the content in the h2 tag, for example: Welcome back!!! username, the username can be edited, the user has the option of changing names.
  -->
 
  <!-- 
