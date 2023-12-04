@@ -11,5 +11,5 @@ In this project, I created a todo list that can edit the content in the h2 tag w
 -->
 
 <!--
- A delete button was created to delete the content of the list and also the user can view all the todo list
+ A delete button was created to delete the content of the list and also the user can view all the todo list that is shown
  -->
